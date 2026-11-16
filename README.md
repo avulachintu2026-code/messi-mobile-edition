@@ -1,2 +1,2 @@
-# messi-mobile-edition
-My Messi Ai Assistant
+# jarvis-mobile-edition
+My Jarvis Ai Assistant
